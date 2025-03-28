@@ -1,4 +1,6 @@
-<h2 align="left">👋 ¡Hola! Soy Daniel Ortiz<br>Actualmente estudio programación y estoy aprendiendo Python (Django), JavaScript y HTML. También tengo conocimientos básicos en Java, C# y PHP con Laravel.<br><br>🚀 Estoy en constante aprendizaje y desarrollando mis primeras experiencias en el mundo de la programación.<br><br>📌 Me interesa el desarrollo web y backend, y busco mejorar mis habilidades con cada proyecto.</h2>
+<br clear="both">
+
+<h2 align="left"></h2>
 
 ###
 
